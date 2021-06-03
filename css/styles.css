@@ -1,0 +1,33 @@
+
+img {
+	width: 500px;
+	height: 500px;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+	font-size: 48px;
+}
+
+h2 {
+	color: yellow;
+  font-style: italic;
+	font-size: 14 px;
+}
+body { 
+	background-color: yellowgreen;
+	line-height: 2.5;
+	font-weight: normal;
+	font-family: "Comic Sans MS", "Comic Sans";
+	font-size: medium;
+	font-style: oblique;
+	color: green; 
+	margin: 0;
+  text-align: center; 
+	padding: 0;
+	}
+
+  .content-box {
+    columns: 3 auto;
+  }
